@@ -2,7 +2,7 @@
 
 ### Frontend Developer | JavaScript & TypeScript Learner
 
-![GitHub Banner](./banner.png)
+![GitHub Banner](./bennar image.png)
 
 ## About Me
 
