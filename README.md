@@ -100,17 +100,6 @@ continuously improving my programming and problem-solving skills.
 
 <br/>
 
-<!-- ======================= Contribution ======================= -->
-
-## 🐍 Contribution Activity
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/habiba97q/habiba97q/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</p>
-
-<br/>
 
 <!-- ======================= Profile Views ======================= -->
 
