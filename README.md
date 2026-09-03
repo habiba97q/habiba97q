@@ -113,17 +113,6 @@ continuously improving my programming and problem-solving skills.
 
 <br/>
 
-<!-- ======================= Quote ======================= -->
-
-## 💬 Random Developer Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-
-</p>
-
----
 
 <p align="center">
 
